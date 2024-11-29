@@ -16,5 +16,5 @@
         - Java 
         - Laravel
         - C/C++
-        - Javascript
+        - Javascript / Typescript
         - Flutter (mobile development)
