@@ -1,9 +1,20 @@
 ## Hi my name is Mário Babiar. Welcome to my Github.
-- 🌱 I'm currently studying at Faculty of Informatics and Information Technology, Slovak Technical University - FIIT STU
-- 📚 Currently in 3rd year.
+- 🌱 I'm currently studying at Faculty of Informatics and Information Technology, Slovak Technical University - FIIT STU (3rd year)
 - 🖥️ My favourite things to do: 
-    - Developing/Implementing Algorithms
-    - Web-Development
-- 😄 My hobbies are:
-    - Playing video games
-    - Listening to music
+    - Web development
+    - Algorithms
+- 💪 My languages:
+    - Frontend:
+        - React
+        - Vue
+    - Backend:
+        - Go
+        - Express
+        - AdonisJS
+    - Others:
+        - Python
+        - Java 
+        - Laravel
+        - C/C++
+        - Javascript
+        - Flutter (mobile development)
