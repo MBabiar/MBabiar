@@ -3,7 +3,7 @@
 - 🖥️ My favourite things to do: 
     - Web development
     - Algorithms
-- 💪 My languages:
+- 💪 My Skills:
     - Frontend:
         - React
         - Vue
