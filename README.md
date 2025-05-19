@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="144" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -31,17 +31,17 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Go-222?&logo=go&style=for-the-badge" height="50" alt="go logo"  />
+  <img src="https://img.shields.io/badge/Go-222?&logo=go&style=for-the-badge" height="44" alt="go logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-222?logo=python&style=for-the-badge" height="50" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-222?logo=python&style=for-the-badge" height="44" alt="python logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-222?logo=openjdk&logoColor=orange&style=for-the-badge" height=50, alt="java logo"  />
+  <img src="https://img.shields.io/badge/Java-222?logo=openjdk&logoColor=orange&style=for-the-badge" height=44, alt="java logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dart-222?logo=dart&logoColor=blue&style=for-the-badge" height="50" alt="dart logo"  />
+  <img src="https://img.shields.io/badge/Dart-222?logo=dart&logoColor=blue&style=for-the-badge" height="44" alt="dart logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-222?logo=javascript&style=for-the-badge" height="50" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-222?logo=javascript&style=for-the-badge" height="44" alt="javascript logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-222?logo=typescript&style=for-the-badge" height="50" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-222?logo=typescript&style=for-the-badge" height="44" alt="typescript logo"  />
   &nbsp;&nbsp;
 </div>
 
@@ -52,17 +52,17 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/React-222?logo=react&style=for-the-badge" height="50" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-222?logo=react&style=for-the-badge" height="44" alt="react logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-222?logo=vuedotjs&style=for-the-badge" height="50" alt="vuejs logo"  />
+  <img src="https://img.shields.io/badge/Vue.js-222?logo=vuedotjs&style=for-the-badge" height="44" alt="vuejs logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-222?logo=laravel&style=for-the-badge" height="50" alt="laravel logo"  />
+  <img src="https://img.shields.io/badge/Laravel-222?logo=laravel&style=for-the-badge" height="44" alt="laravel logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-222?logo=tailwind-css&style=for-the-badge" height="50" alt="tailwind css logo"  />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-222?logo=tailwind-css&style=for-the-badge" height="44" alt="tailwind css logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-222?logo=flutter&logoColor=blue&style=for-the-badge" height="50" alt="flutter logo"  />
+  <img src="https://img.shields.io/badge/Flutter-222?logo=flutter&logoColor=blue&style=for-the-badge" height="44" alt="flutter logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-222?logo=pandas&logoColor=blue&style=for-the-badge" height="50" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/Pandas-222?logo=pandas&logoColor=blue&style=for-the-badge" height="44" alt="pandas logo"  />
   &nbsp;&nbsp;
 </div>
 
@@ -73,9 +73,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Postgresql-222?logo=postgresql&style=for-the-badge" height="50" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/Postgresql-222?logo=postgresql&style=for-the-badge" height="44" alt="postgresql logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Neo4j-222?logo=neo4j&style=for-the-badge" height="50" alt="neo4j logo"  />
+  <img src="https://img.shields.io/badge/Neo4j-222?logo=neo4j&style=for-the-badge" height="44" alt="neo4j logo"  />
   &nbsp;&nbsp;
 </div>
 
@@ -86,15 +86,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Docker-222?logo=docker&style=for-the-badge" height="50" alt="docker logo"  />
+  <img src="https://img.shields.io/badge/Docker-222?logo=docker&style=for-the-badge" height="44" alt="docker logo"  />
   &nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-222?logo=vsc&style=for-the-badge" height="50" alt="vscode logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-222?logo=vsc&style=for-the-badge" height="44" alt="vscode logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Obsidian-222?&logo=obsidian&logoColor=purple&style=for-the-badge" height="50" alt="obsidian logo"  />
+  <img src="https://img.shields.io/badge/Obsidian-222?&logo=obsidian&logoColor=purple&style=for-the-badge" height="44" alt="obsidian logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-222?logo=figma&style=for-the-badge" height="50" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Figma-222?logo=figma&style=for-the-badge" height="44" alt="figma logo"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vite-222?logo=vite&style=for-the-badge" height="50" alt="vite logo"  />
+  <img src="https://img.shields.io/badge/Vite-222?logo=vite&style=for-the-badge" height="44" alt="vite logo"  />
   &nbsp;&nbsp;
 </div>
 
@@ -111,8 +111,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MBabiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MBabiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MBabiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="144" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MBabiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="144" alt="languages graph"  />
 </div>
 
 ###
