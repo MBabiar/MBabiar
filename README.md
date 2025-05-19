@@ -104,7 +104,7 @@
 
 ###
 
-<div align="center" justify="center">
+<div align="center">
 
 ![MBabiar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MBabiar&theme=tokyonight&hide_border=false)
 ![MBabiar's Stats](https://github-readme-stats.vercel.app/api?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
@@ -120,9 +120,15 @@
 
 </div>
 
-<div align="center" justify="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="140" alt="languages graph"  />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MBabiar&theme=tokyonight&hide_border=false" alt="MBabiar's Streak" />
+  
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="MBabiar's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="MBabiar's Top Languages" />
+  </div>
+
 </div>
 
 ###
