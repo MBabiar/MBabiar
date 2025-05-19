@@ -109,8 +109,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats-git-master-mario-babiars-projects.vercel.app/api?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-master-mario-babiars-projects.vercel.app/api/top-langs/?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="160" alt="languages graph"  />
 </div>
 
 ###
