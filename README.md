@@ -104,7 +104,7 @@
 
 ###
 
-<div align="center">
+<div align="center" justify="center">
 
 ![MBabiar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MBabiar&theme=tokyonight&hide_border=false)
 ![MBabiar's Stats](https://github-readme-stats.vercel.app/api?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
@@ -120,7 +120,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" justify="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBabiar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="140" alt="languages graph"  />
 </div>
