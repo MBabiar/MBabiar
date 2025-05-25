@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MBabiar.MBabiar&"  />
-</div>
-
-###
-
 <h3 align="left">👨‍💻 About me</h3>
 
 ###
